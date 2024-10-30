@@ -1,0 +1,170 @@
+[
+  {
+      "id": 1,
+      "name": "Aloe Vera",
+      "price": 1327,
+      "description": "Soothing and easy-care, perfect for skin health.",
+      "category": "Air-Purifying",
+      "imageURL": "src/assets/plants/aloevera.jpg"
+  },
+  {
+      "id": 2,
+      "name": "Anthurium",
+      "price": 1576,
+      "description": "Tropical plant with vibrant red flowers.",
+      "category": "Air-Purifying",
+      "imageURL": "src/assets/plants/Anthurium.jpg"
+  },
+  {
+      "id": 3,
+      "name": "Cactus",
+      "price": 1038,
+      "description": "Drought-resistant, adds desert charm.",
+      "category": "Low-Maintenance",
+      "imageURL": "src/assets/plants/cactus.jpg"
+  },
+  {
+      "id": 4,
+      "name": "Caladium",
+      "price": 1660,
+      "description": "Heart-shaped leaves brighten any space.",
+      "category": "Decorative",
+      "imageURL": "src/assets/plants/caladium.jpg"
+  },
+  {
+      "id": 5,
+      "name": "Calathea",
+      "price": 1493,
+      "description": "Striking patterns, perfect for low light.",
+      "category": "Air-Purifying",
+      "imageURL": "src/assets/plants/calathea.jpg"
+  },
+  {
+      "id": 6,
+      "name": "Eucalyptus",
+      "price": 1826,
+      "description": "Fragrant and calming with silvery leaves.",
+      "category": "Aromatic",
+      "imageURL": "src/assets/plants/eucalyptus.jpg"
+  },
+  {
+      "id": 7,
+      "name": "Golden Pothos",
+      "price": 1244,
+      "description": "Easy-care with air-purifying vines.",
+      "category": "Air-Purifying",
+      "imageURL": "src/assets/plants/golden_pothos.jpg"
+  },
+  {
+      "id": 8,
+      "name": "Hyacinth",
+      "price": 1370,
+      "description": "Beautifully scented flowers with color.",
+      "category": "Aromatic",
+      "imageURL": "src/assets/plants/hyacinth.jpg"
+  },
+  {
+      "id": 9,
+      "name": "Jasmine",
+      "price": 1556,
+      "description": "Sweet scent and air-purifying qualities.",
+      "category": "Aromatic, Air-Purifying",
+      "imageURL": "src/assets/plants/jasmine.jpg"
+  },
+  {
+      "id": 10,
+      "name": "Kangaroo Fern",
+      "price": 1245,
+      "description": "Soft, textured fronds for indoor charm.",
+      "category": "Decorative",
+      "imageURL": "src/assets/plants/kangaroo fern.jpg"
+  },
+  {
+      "id": 11,
+      "name": "Lavender",
+      "price": 1659,
+      "description": "Relaxing fragrance, reduces stress.",
+      "category": "Aromatic",
+      "imageURL": "src/assets/plants/lavender.jpg"
+  },
+  {
+      "id": 12,
+      "name": "Miso",
+      "price": 1079,
+      "description": "Compact, ideal low-maintenance plant.",
+      "category": "Low-Maintenance",
+      "imageURL": "src/assets/plants/miso.jpg"
+  },
+  {
+      "id": 13,
+      "name": "Peace Lily",
+      "price": 1328,
+      "description": "White blooms thrive in indirect light.",
+      "category": "Air-Purifying",
+      "imageURL": "src/assets/plants/peace lily.jpg"
+  },
+  {
+      "id": 14,
+      "name": "Pepperface",
+      "price": 1162,
+      "description": "Compact, bushy, and space-saving.",
+      "category": "Low-Maintenance",
+      "imageURL": "src/assets/plants/pepperface.jpg"
+  },
+  {
+      "id": 15,
+      "name": "Pilea",
+      "price": 1328,
+      "description": "Coin-shaped leaves, adds charm.",
+      "category": "Decorative",
+      "imageURL": "src/assets/plants/pilea.jpg"
+  },
+  {
+      "id": 16,
+      "name": "Rosemary",
+      "price": 829,
+      "description": "Aromatic, great for cooking.",
+      "category": "Aromatic",
+      "imageURL": "src/assets/plants/rosemary.jpg"
+  },
+  {
+      "id": 17,
+      "name": "Rubber Plant",
+      "price": 1743,
+      "description": "Glossy leaves, purifies indoor air.",
+      "category": "Air-Purifying",
+      "imageURL": "src/assets/plants/rubber.jpg"
+  },
+  {
+      "id": 18,
+      "name": "Snake Plant",
+      "price": 995,
+      "description": "Low-maintenance and purifying.",
+      "category": "Air-Purifying",
+      "imageURL": "src/assets/plants/snake plant.jpg"
+  },
+  {
+      "id": 19,
+      "name": "Spider Plant",
+      "price": 996,
+      "description": "Easy care with air-purifying leaves.",
+      "category": "Air-Purifying",
+      "imageURL": "src/assets/plants/spider.jpg"
+  },
+  {
+      "id": 20,
+      "name": "Swiss Cheese Plant",
+      "price": 2074,
+      "description": "Fenestrated leaves make a statement.",
+      "category": "Decorative",
+      "imageURL": "src/assets/plants/swisscheese.jpg"
+  },
+  {
+      "id": 21,
+      "name": "ZZ Plant",
+      "price": 1619,
+      "description": "Glossy leaves, ideal for low light.",
+      "category": "Air-Purifying",
+      "imageURL": "src/assets/plants/zzplant.jpg"
+  }
+]
